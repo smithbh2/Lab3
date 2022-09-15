@@ -1,0 +1,15 @@
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\obj\Debug\net6.0\GenRandomData2.csproj.AssemblyReference.cache
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\obj\Debug\net6.0\GenRandomData2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\obj\Debug\net6.0\GenRandomData2.AssemblyInfoInputs.cache
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\obj\Debug\net6.0\GenRandomData2.AssemblyInfo.cs
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\obj\Debug\net6.0\GenRandomData2.csproj.CoreCompileInputs.cache
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\bin\Debug\net6.0\GenRandomData2.exe
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\bin\Debug\net6.0\GenRandomData2.deps.json
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\bin\Debug\net6.0\GenRandomData2.runtimeconfig.json
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\bin\Debug\net6.0\GenRandomData2.dll
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\bin\Debug\net6.0\GenRandomData2.pdb
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\obj\Debug\net6.0\GenRandomData2.dll
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\obj\Debug\net6.0\refint\GenRandomData2.dll
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\obj\Debug\net6.0\GenRandomData2.pdb
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\obj\Debug\net6.0\GenRandomData2.genruntimeconfig.cache
+C:\Users\wanna\source\repos\GenRandomData2\GenRandomData2\obj\Debug\net6.0\ref\GenRandomData2.dll
